@@ -12,7 +12,7 @@ const page = () => {
       </blockquote>
       <figcaption className="font-medium">
         <div className="text-sky-500 dark:text-sky-400">
-          Sarah Dayan
+          mazhar iqbal
         </div>
         <div className="text-slate-700 dark:text-slate-500">
           Profession Teaching Mazhar 
